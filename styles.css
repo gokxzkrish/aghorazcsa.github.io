@@ -36,4 +36,68 @@
     background-color: rgb(255, 204, 0);
     cursor: pointer;
 }
+ #secondmainbody
+{
+    background-color: rgb(202, 255, 255);
+}
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 400px;
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+  
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
+  .main {
+    padding: 30px;
+    margin-top: 30px;
+    height: 1500px;
+  }
+  #gt
+  {
+    text-align: center;
+    font-size: 40px;
+  }
+  #coa
+  {
+    text-align: center;
+    font-size: 40px;
+  }
+  #os
+  {
+    text-align: center;
+    font-size: 40px;
+  }
+  #dbms
+  {
+    text-align: center;
+    font-size: 40px;
+  }
+  #pe
+  {
+    text-align: center;
+    font-size: 40px;
+    
+  }
+  #coi
+  {
+    text-align: center;
+    font-size: 40px;
+    
+  }
 }
